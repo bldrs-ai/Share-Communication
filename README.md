@@ -11,7 +11,7 @@ Share is a web-based BIM & CAD integration environment from [bldrs.ai](https://b
 - *Share* with teammates, using permalinks to model parts with exact camera views.
 - *Extend* our platform with your Apps. (in development)
 
-![image](https://user-images.githubusercontent.com/2480879/173548785-c61ac976-751e-4a1f-ba28-1514b44d539e.png)
+![image](https://user-images.githubusercontent.com/74647806/203040351-bf1ec399-b5e8-49c2-a0c6-d44157de3ccb.png)
 
 # Contributing
 Please join in creating Bldrs!  Come chat with us at the [Bldrs Discord](https://discord.gg/apWHfDtkJs).
